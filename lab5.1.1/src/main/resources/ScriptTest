@@ -1,0 +1,22 @@
+show
+history
+show
+insert 5
+name
+1.1
+12.2
+50
+2
+GRENADE_LAUNCHER
+LIGHTING_CLAW
+gg
+hh
+
+show
+info
+
+execute_script /Users/artemiy/IdeaProjects/lab5.1.1/src/main/resources/ScriptTest
+
+info
+show
+exit
